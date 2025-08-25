@@ -1,2 +1,2 @@
 pandas
-ydata-sdk[text,docx]
+faker
