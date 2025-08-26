@@ -1,3 +1,4 @@
 pandas
 faker
-ydata-profiling
+ydata-profiling[notebook]
+jupyter-contrib-nbextensions
