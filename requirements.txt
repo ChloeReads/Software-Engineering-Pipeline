@@ -1,4 +1,5 @@
 pandas
 faker
-ydata-profiling[notebook]
+jupyter-server==1.16.0
 jupyter-contrib-nbextensions
+ydata-profiling[notebook]
