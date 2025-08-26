@@ -1,3 +1,4 @@
 pandas
 faker
 sweetviz
+numpy==1.24.0
